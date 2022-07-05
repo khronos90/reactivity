@@ -1,0 +1,23 @@
+{
+  "name": "reactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khronos90/reactivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khronos90/reactivity/issues"
+  },
+  "homepage": "https://github.com/khronos90/reactivity#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
